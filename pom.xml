@@ -10,6 +10,7 @@
   <packaging>pom</packaging>
 
   <name>system-design-algo</name>
+  <description>parent for sys design and algo</description>
 
   <modules>
     <module>sys-design-lld</module>

@@ -10,5 +10,7 @@
     </parent>
 
     <artifactId>sys-design-lld</artifactId>
+    <name>system design lld</name>
+    <description>lld module for sys design</description>
 
 </project>

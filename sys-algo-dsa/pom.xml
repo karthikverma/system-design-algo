@@ -10,5 +10,7 @@
     </parent>
 
     <artifactId>system-algo-dsa</artifactId>
+    <name>system design algo</name>
+    <description>algo module</description>
 
 </project>
